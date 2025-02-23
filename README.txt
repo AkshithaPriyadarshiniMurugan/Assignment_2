@@ -100,3 +100,8 @@ These algorithms determine which page is replaced when the buffer is full.
 📌 Additional test cases are implemented in `test_assign2_2.c`. These test cases evaluate:
    - LFU and CLOCK page replacement strategies.
    - Various buffer management functionalities.
+
+
+
+
+link for the assignment 2: https://www.loom.com/share/9b94743a2b7c46c39f11f5195a26301c?sid=99f4cfd2-48cd-496b-a062-8852f3e78680
